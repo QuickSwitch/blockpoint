@@ -33,6 +33,10 @@
   width: auto;
 }
 
+.nav-link {
+  text-align: right;
+}
+
 .container h1 {
   text-align: center;
     color: black;
